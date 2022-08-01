@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Tim. Let's collaborate!
 
 - 🔭 I’m currently working on finding my first position as a developer.
 - 🌱 I’m currently learning how to streamline all of the languages I've learned beyond rote knowledge.
