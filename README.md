@@ -11,8 +11,6 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have my doctorate in physical therapy and I love problem solving, hence my evolution into the developer field.
 
-[Buy Me A Coffee ☕️](buymeacofee.com/MaloneTM91)
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
