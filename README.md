@@ -43,7 +43,3 @@
 </p>
 
 <br><br>
-
-<p>
-  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?maloneTM91=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" alt="malonetm91" />
-</p>
