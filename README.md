@@ -35,13 +35,15 @@
   </a>
 </p>
 
+<br><br>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/tim-malone-pt-dpt-sfma-cert-1a9475a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tim-malone" height="30" width="40" /></a>
 </p>
 
-<br></br>
+<br><br>
 
 <p>
-  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?maloneTM91=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" alt="ccmalcom" />
+  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?maloneTM91=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" alt="malonetm91" />
 </p>
