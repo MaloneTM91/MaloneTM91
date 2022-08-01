@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Tim. Let's collaborate!
 
+### Full Stack Developer, Problem Solver, Curious Explorer
+
 - 🔭 I’m currently working on finding my first position as a developer.
 - 🌱 I’m currently learning how to streamline all of the languages I've learned beyond rote knowledge.
 - 👯 I’m looking to collaborate on any project! I'm eager to learn and improve!
